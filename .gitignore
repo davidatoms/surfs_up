@@ -7,3 +7,5 @@
 /.idea/.gitignore
 main.py
 .DS_Store
+.idea/other.xml
+__pycache__/app.cpython-38.pyc
